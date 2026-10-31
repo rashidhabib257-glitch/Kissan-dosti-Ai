@@ -1,4 +1,4 @@
-# Kissan Dost - AI Helping Farmer
+Kissan Dost - AI Helping Farmer
 
 Kissan Dost is an AI-based smart farming assistant for Pakistani farmers.
 
@@ -13,6 +13,4 @@ Kissan Dost is an AI-based smart farming assistant for Pakistani farmers.
 - Developed by Rashid Habib
 
 ## Mission
-To help small farmers of Pakistan grow more with AI.
-
-Contact: rashidhabib257-glitch
+To help
